@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: #191970;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: system-ui, sans-serif;
+}
+
+main {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+#gameCanvas {
+    display: block;
+    background-color: #191970;
+}
